@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BurcBulma {
+public class BurcunNe {
     public static void main(String[] args) {
        int month,day;
        Scanner input =new Scanner(System.in);
